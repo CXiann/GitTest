@@ -11,6 +11,7 @@ public class GitLocal {
     }
     public static void newThingsAdded(){
         System.out.println("New line");
+        System.out.println("2nd line");
     }
     
 }
